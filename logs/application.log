@@ -1,0 +1,187 @@
+2020-10-21 03:10:51,470 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 10928 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 03:10:51,480 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 03:10:58,607 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 7.609 seconds (JVM running for 9.162)
+2020-10-21 03:11:26,360 [http-nio-8080-exec-4] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-21 03:11:28,015 [http-nio-8080-exec-5] INFO  com.example.demo.controllers.OrderController - [SUBMIT ORDER] -> {SUCCESS} save a new submitted order from user -> shannon
+2020-10-21 03:11:32,978 [http-nio-8080-exec-7] INFO  com.example.demo.controllers.ItemController - [GET ITEM BY ID] -> itemId you input is : 1
+2020-10-21 03:11:34,713 [http-nio-8080-exec-8] INFO  com.example.demo.controllers.ItemController - [GET ITEM BY NAME] -> item name you input is : Round Widget
+2020-10-21 03:11:36,363 [http-nio-8080-exec-9] INFO  com.example.demo.controllers.OrderController - [SUBMIT ORDER] -> {SUCCESS} save a new submitted order from user -> shannon
+2020-10-21 03:11:38,135 [http-nio-8080-exec-10] INFO  com.example.demo.controllers.OrderController - [GET HISTORY BY USERNAME] -> {SUCCESS} display the history from shannon
+2020-10-21 03:47:02,461 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 23732 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 03:47:02,480 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 03:47:09,735 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 7.964 seconds (JVM running for 9.989)
+2020-10-21 03:47:46,241 [http-nio-8080-exec-8] ERROR com.example.demo.controllers.CartController - [ADD TO CART] -> {FAIL} for username : shannone, Cannot find user.
+2020-10-21 03:47:51,397 [http-nio-8080-exec-9] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-21 03:47:57,862 [http-nio-8080-exec-10] ERROR com.example.demo.controllers.OrderController - [SUBMIT ORDER] -> {FAIL} username mic is not found in db.
+2020-10-21 03:48:00,563 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.OrderController - [SUBMIT ORDER] -> {SUCCESS} save a new submitted order from user -> shannon
+2020-10-21 03:48:10,611 [http-nio-8080-exec-4] INFO  com.example.demo.controllers.ItemController - [GET ITEM BY ID] -> itemId you input is : 12
+2020-10-21 03:48:16,633 [http-nio-8080-exec-5] INFO  com.example.demo.controllers.ItemController - [GET ITEM BY ID] -> itemId you input is : 2
+2020-10-21 03:48:22,364 [http-nio-8080-exec-6] INFO  com.example.demo.controllers.ItemController - [GET ITEM BY NAME] -> item name you input is : RoundWidget
+2020-10-21 03:48:31,520 [http-nio-8080-exec-7] ERROR com.example.demo.controllers.OrderController - [SUBMIT ORDER] -> {FAIL} username s is not found in db.
+2020-10-21 03:48:37,025 [http-nio-8080-exec-8] ERROR com.example.demo.controllers.OrderController - [SUBMIT ORDER] -> {FAIL} username sa is not found in db.
+2020-10-21 03:48:39,569 [http-nio-8080-exec-9] INFO  com.example.demo.controllers.OrderController - [SUBMIT ORDER] -> {SUCCESS} save a new submitted order from user -> shannon
+2020-10-21 03:48:44,477 [http-nio-8080-exec-10] ERROR com.example.demo.controllers.OrderController - [GET HISTORY BY USERNAME] -> {FAIL} username s cannot find from db.
+2020-10-21 03:48:45,617 [http-nio-8080-exec-1] ERROR com.example.demo.controllers.OrderController - [GET HISTORY BY USERNAME] -> {FAIL} username sa cannot find from db.
+2020-10-21 03:48:48,582 [http-nio-8080-exec-2] INFO  com.example.demo.controllers.OrderController - [GET HISTORY BY USERNAME] -> {SUCCESS} display the history from shannon
+2020-10-21 11:31:12,085 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 23792 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 11:31:12,115 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 11:31:23,010 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 12.233 seconds (JVM running for 15.987)
+2020-10-21 11:32:56,669 [http-nio-8080-exec-10] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-21 11:45:37,878 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 3624 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 11:45:37,901 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 11:45:47,331 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 10.273 seconds (JVM running for 12.534)
+2020-10-21 11:47:39,996 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 20136 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 11:47:40,020 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 11:47:51,792 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 12.414 seconds (JVM running for 14.373)
+2020-10-21 11:49:03,135 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 11556 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 11:49:03,150 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 11:49:12,987 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 10.528 seconds (JVM running for 12.94)
+2020-10-21 12:30:22,805 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-21 12:30:41,479 [http-nio-8080-exec-2] ERROR com.example.demo.controllers.CartController - [ADD TO CART] -> {FAIL} for username : gwan, Cannot find user.
+2020-10-21 12:36:25,432 [http-nio-8080-exec-6] ERROR com.example.demo.Security.JWTAuthenticationFilter - An internal error occurred while trying to authenticate the user.
+2020-10-21 12:36:33,744 [http-nio-8080-exec-7] ERROR com.example.demo.Security.JWTAuthenticationFilter - An internal error occurred while trying to authenticate the user.
+2020-10-21 12:38:47,433 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 1900 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 12:38:47,449 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 12:38:55,900 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 9.065 seconds (JVM running for 11.044)
+2020-10-21 12:40:09,084 [http-nio-8080-exec-4] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-21 12:40:16,904 [http-nio-8080-exec-7] INFO  com.example.demo.controllers.OrderController - [SUBMIT ORDER] -> {SUCCESS} save a new submitted order from user -> shannon
+2020-10-21 12:40:24,380 [http-nio-8080-exec-8] ERROR com.example.demo.controllers.OrderController - [SUBMIT ORDER] -> {FAIL} username gwan is not found in db.
+2020-10-21 12:55:20,140 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 10276 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 12:55:20,161 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 12:55:31,662 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 12.472 seconds (JVM running for 15.009)
+2020-10-21 13:02:23,657 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 12352 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 13:02:23,673 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 13:02:32,745 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 10.013 seconds (JVM running for 12.229)
+2020-10-21 13:03:25,739 [http-nio-8080-exec-7] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-21 13:03:30,216 [http-nio-8080-exec-8] ERROR com.example.demo.controllers.CartController - [ADD TO CART] -> {FAIL} for username : shanno, Cannot find user.
+2020-10-21 13:16:31,743 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 16876 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 13:16:31,769 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 13:16:33,742 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 11768 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 13:16:33,759 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 13:16:44,901 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 13.93 seconds (JVM running for 16.748)
+2020-10-21 13:19:42,237 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 11860 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 13:19:42,247 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 13:19:48,840 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 7.078 seconds (JVM running for 8.686)
+2020-10-21 13:22:57,419 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 21420 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 13:22:57,431 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 13:23:03,719 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 6.729 seconds (JVM running for 8.11)
+2020-10-21 13:23:44,255 [http-nio-8080-exec-7] ERROR com.example.demo.controllers.CartController - [ADD TO CART] -> {FAIL} for username : shanno, Cannot find user.
+2020-10-21 13:24:21,599 [http-nio-8080-exec-8] ERROR com.example.demo.controllers.CartController - [ADD TO CART] -> {FAIL} for username : shanno, Cannot find user.
+2020-10-21 13:24:25,284 [http-nio-8080-exec-10] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-21 13:27:47,418 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 13308 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 13:27:47,427 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 13:27:53,997 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 7.015 seconds (JVM running for 8.378)
+2020-10-21 13:28:08,243 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 18072 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 13:28:08,257 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 13:28:15,150 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 7.498 seconds (JVM running for 9.07)
+2020-10-21 17:23:55,328 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 27548 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 17:23:55,348 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 17:24:04,624 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 9.983 seconds (JVM running for 12.182)
+2020-10-21 18:03:34,248 [http-nio-8080-exec-4] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-21 18:21:36,903 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 28868 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 18:21:36,905 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 18:21:47,463 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 11.169 seconds (JVM running for 13.196)
+2020-10-21 18:29:02,814 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 29320 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 18:29:02,817 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 18:29:17,097 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 15.342 seconds (JVM running for 18.368)
+2020-10-21 18:32:32,244 [http-nio-8080-exec-10] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-21 18:32:46,343 [http-nio-8080-exec-3] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-21 18:35:23,322 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 13472 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 18:35:23,350 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 18:35:32,917 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 10.399 seconds (JVM running for 12.729)
+2020-10-21 18:54:12,052 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 25500 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 18:54:12,085 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 18:54:25,197 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 13.941 seconds (JVM running for 16.781)
+2020-10-21 18:57:21,782 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-21 20:38:29,641 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 27624 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 20:38:29,644 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 20:38:40,778 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 11.821 seconds (JVM running for 14.033)
+2020-10-21 20:45:52,615 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 28104 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 20:45:52,617 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 20:46:02,746 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 10.864 seconds (JVM running for 13.237)
+2020-10-21 20:52:30,809 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 27708 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 20:52:30,813 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 20:52:41,226 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 11.219 seconds (JVM running for 13.54)
+2020-10-21 20:52:47,573 [http-nio-8080-exec-2] ERROR com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-21 20:53:29,471 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 27008 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 20:53:29,473 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 20:53:41,074 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 12.241 seconds (JVM running for 14.459)
+2020-10-21 20:53:41,523 [http-nio-8080-exec-1] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-21 20:53:47,609 [http-nio-8080-exec-4] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-21 20:54:38,146 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 28956 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-21 20:54:38,158 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-21 20:54:48,017 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 10.487 seconds (JVM running for 12.77)
+2020-10-21 20:55:57,287 [http-nio-8080-exec-1] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-21 20:56:01,821 [http-nio-8080-exec-3] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-21 20:56:26,319 [http-nio-8080-exec-6] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-21 20:56:26,395 [http-nio-8080-exec-6] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-21 20:56:33,293 [http-nio-8080-exec-7] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-21 20:56:33,301 [http-nio-8080-exec-7] ERROR com.example.demo.controllers.CartController - [ADD TO CART] -> {FAIL} for username : gwan, Cannot find user.
+2020-10-21 20:56:42,214 [http-nio-8080-exec-8] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-21 20:57:02,663 [http-nio-8080-exec-9] INFO  com.example.demo.controllers.OrderController - [SUBMIT ORDER] -> {SUCCESS} save a new submitted order from user -> shannon
+2020-10-21 20:57:05,688 [http-nio-8080-exec-10] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-21 20:57:12,274 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.ItemController - [GET ITEM BY ID] -> itemId you input is : 2
+2020-10-21 20:57:15,087 [http-nio-8080-exec-3] INFO  com.example.demo.controllers.ItemController - [GET ITEM BY NAME] -> item name you input is : Round Widget
+2020-10-21 20:57:18,886 [http-nio-8080-exec-4] INFO  com.example.demo.controllers.OrderController - [SUBMIT ORDER] -> {SUCCESS} save a new submitted order from user -> shannon
+2020-10-21 20:57:23,650 [http-nio-8080-exec-5] INFO  com.example.demo.controllers.OrderController - [GET HISTORY BY USERNAME] -> {SUCCESS} display the history from shannon
+2020-10-21 20:59:46,003 [http-nio-8080-exec-7] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:18:47,004 [http-nio-8080-exec-10] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:25:01,338 [http-nio-8080-exec-1] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:29:32,008 [http-nio-8080-exec-3] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:29:48,329 [http-nio-8080-exec-6] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:30:04,281 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 25120 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-22 00:30:04,295 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-22 00:30:11,844 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 8.093 seconds (JVM running for 10.013)
+2020-10-22 00:30:22,435 [http-nio-8080-exec-2] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:30:32,715 [http-nio-8080-exec-5] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:30:37,412 [http-nio-8080-exec-6] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:30:58,041 [http-nio-8080-exec-8] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:30:58,067 [http-nio-8080-exec-8] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : gwan
+2020-10-22 00:31:01,977 [http-nio-8080-exec-9] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:31:01,983 [http-nio-8080-exec-9] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-22 00:31:06,231 [http-nio-8080-exec-10] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:31:06,235 [http-nio-8080-exec-10] ERROR com.example.demo.controllers.CartController - [ADD TO CART] -> {FAIL} for username : he, Cannot find user.
+2020-10-22 00:31:15,124 [http-nio-8080-exec-1] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:31:15,126 [http-nio-8080-exec-1] ERROR com.example.demo.controllers.CartController - [ADD TO CART] -> {FAIL} for username : he, Cannot find user.
+2020-10-22 00:31:18,221 [http-nio-8080-exec-2] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:31:18,223 [http-nio-8080-exec-2] ERROR com.example.demo.controllers.CartController - [ADD TO CART] -> {FAIL} for username : she, Cannot find user.
+2020-10-22 00:31:24,903 [http-nio-8080-exec-5] INFO  com.example.demo.controllers.OrderController - [SUBMIT ORDER] -> {SUCCESS} save a new submitted order from user -> shannon
+2020-10-22 00:31:30,900 [http-nio-8080-exec-3] INFO  com.example.demo.controllers.OrderController - [SUBMIT ORDER] -> {SUCCESS} save a new submitted order from user -> gwan
+2020-10-22 00:31:34,390 [http-nio-8080-exec-6] ERROR com.example.demo.controllers.OrderController - [SUBMIT ORDER] -> {FAIL} username hi is not found in db.
+2020-10-22 00:31:42,531 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 28576 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-22 00:31:42,544 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-22 00:31:49,971 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 7.927 seconds (JVM running for 9.776)
+2020-10-22 00:32:26,002 [http-nio-8080-exec-2] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:33:08,978 [http-nio-8080-exec-3] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:33:09,084 [http-nio-8080-exec-3] ERROR com.example.demo.controllers.CartController - [ADD TO CART] -> {FAIL} for username : shannon, Cannot find user.
+2020-10-22 00:33:20,127 [http-nio-8080-exec-4] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:33:20,177 [http-nio-8080-exec-4] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : gwan
+2020-10-22 00:34:44,665 [main] INFO  com.example.demo.SareetaApplication - Starting SareetaApplication on DESKTOP-D5FQ2H3 with PID 13380 (started by shannon in C:\ShannonFile\Java Web Development\04\JDND-master\projects\P04-eCommerce Application\starter_code)
+2020-10-22 00:34:44,677 [main] INFO  com.example.demo.SareetaApplication - No active profile set, falling back to default profiles: default
+2020-10-22 00:34:52,065 [main] INFO  com.example.demo.SareetaApplication - Started SareetaApplication in 7.899 seconds (JVM running for 9.74)
+2020-10-22 00:34:57,474 [http-nio-8080-exec-3] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:34:57,547 [http-nio-8080-exec-3] INFO  com.example.demo.controllers.UserController - [CREATE USER] -> name set with ->gwan
+2020-10-22 00:34:57,588 [http-nio-8080-exec-3] INFO  com.example.demo.controllers.UserController - [CREATE CART] -> get id from cart ->1
+2020-10-22 00:34:57,666 [http-nio-8080-exec-3] INFO  com.example.demo.controllers.UserController - [CREATE USER] -> {SUCCESS} Save username: gwan
+2020-10-22 00:35:02,872 [http-nio-8080-exec-7] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:35:02,873 [http-nio-8080-exec-7] INFO  com.example.demo.controllers.UserController - [CREATE USER] -> name set with ->gwan
+2020-10-22 00:35:02,875 [http-nio-8080-exec-7] INFO  com.example.demo.controllers.UserController - [CREATE CART] -> get id from cart ->2
+2020-10-22 00:35:02,876 [http-nio-8080-exec-7] ERROR com.example.demo.controllers.UserController - [CREATE USER] -> {FAIL} Error with user: gwan, REASON -> password not matching
+2020-10-22 00:35:09,317 [http-nio-8080-exec-1] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:35:09,319 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.UserController - [CREATE USER] -> name set with ->shannon
+2020-10-22 00:35:09,321 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.UserController - [CREATE CART] -> get id from cart ->3
+2020-10-22 00:35:09,383 [http-nio-8080-exec-1] INFO  com.example.demo.controllers.UserController - [CREATE USER] -> {SUCCESS} Save username: shannon
+2020-10-22 00:35:22,787 [http-nio-8080-exec-5] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:35:22,812 [http-nio-8080-exec-5] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : gwan
+2020-10-22 00:35:28,949 [http-nio-8080-exec-6] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:35:28,957 [http-nio-8080-exec-6] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-22 00:35:36,100 [http-nio-8080-exec-9] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:35:36,106 [http-nio-8080-exec-9] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-22 00:35:39,163 [http-nio-8080-exec-10] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:35:39,171 [http-nio-8080-exec-10] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-22 00:35:46,918 [http-nio-8080-exec-4] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:35:46,925 [http-nio-8080-exec-4] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} save the new item for user : shannon
+2020-10-22 00:35:53,586 [http-nio-8080-exec-3] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:35:53,589 [http-nio-8080-exec-3] ERROR com.example.demo.controllers.CartController - [ADD TO CART] -> {FAIL} for username : hi, Cannot find user.
+2020-10-22 00:35:57,049 [http-nio-8080-exec-7] WARN  com.example.demo.Security.JWTAuthenticationFilter - [Exception] -> Access is denied.
+2020-10-22 00:35:57,052 [http-nio-8080-exec-7] ERROR com.example.demo.controllers.CartController - [ADD TO CART] -> {FAIL} for username : hi, Cannot find user.
